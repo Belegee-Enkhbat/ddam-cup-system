@@ -29,7 +29,7 @@ export function Header({ isVisible, selectedSport, onSportChange }: HeaderProps)
             onClick={() => onSportChange(null)}
             className="flex-shrink-0 p-2 rounded-lg hover:bg-slate-800 transition-all duration-300"
           >
-            <img src="/ddam-logo-text2.png" alt="DDAM Logo" className="w-32 h-auto" />
+            <img src="/ddam-logo-text2.png" alt="DDAM Logo" className="w-36 h-auto" />
           </button>
         </div>
 

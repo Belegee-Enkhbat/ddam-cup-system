@@ -8,7 +8,7 @@ import { LoadingScreen } from './components/LoadingScreen';
 import { ErrorScreen } from './components/ErrorScreen';
 import { Header } from './components/Header';
 import { BackgroundIcons } from './components/BackgroundIcons';
-import { SportDetailView } from './components/SportDetailView';
+import { SportPageRouter } from './pages/SportPageRouter';
 import { TeamsList } from './components/TeamsList';
 import { PlayerModal } from './components/PlayerModal';
 import { useState } from 'react';
@@ -34,7 +34,7 @@ export default function App() {
         <BackgroundIcons />
 
         {selectedSport ? (
-          <SportDetailView selectedSport={selectedSport} />
+          <SportPageRouter selectedSport={selectedSport} />
         ) : (
           <TeamsList teams={teams} isVisible={isVisible} onPlayerSelect={setSelectedPlayer} />
         )}
