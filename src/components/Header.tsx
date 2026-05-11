@@ -42,7 +42,6 @@ export function Header({ isVisible, selectedSport, onSportChange }: HeaderProps)
                 : 'border-slate-700 bg-slate-900/40 hover:border-slate-600 text-slate-400 hover:text-slate-300'
             }`}
           >
-            <img src="/ddam-logo-text2.png" alt="DDAM Logo" className="w-12 h-auto" />
             Team Players
           </button>
           {SPORTS.map((sport) => (
