@@ -1,0 +1,1933 @@
+{
+    "viewer": {
+        "id": "account-viewer",
+        "username": "viewer",
+        "displayName": "Draft Viewer",
+        "role": "viewer",
+        "teamId": null,
+        "teamName": null
+    },
+    "teams": [
+        {
+            "id": "t1",
+            "name": "Myagmardash",
+            "leaderName": "Myagmardash Ulziisaikhan",
+            "leaderImageUrl": "/member-images/ddam-019_myagmardash-ulziisaikhan.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 7,
+                "volleyball": 5,
+                "tennis": 2,
+                "foosball": 9,
+                "jumpingRope": 0,
+                "cornhole": 5,
+                "darts": 3,
+                "chess": 6
+            },
+            "color": "from-red-500 to-red-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-066",
+                    "name": "Myagmarochir Nyamsuren",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-066_myagmarochir-nyamsuren.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 3,
+                        "tennis": 1,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-011",
+                    "name": "Altanshagai Altangerel",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-011_altanshagai-altangerel.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 4,
+                        "tennis": 3,
+                        "foosball": 7,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 4,
+                        "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-137",
+                    "name": "Sechinbileg Purevsuren",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-137_sechinbileg-purevsuren.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 9,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-047",
+                    "name": "Buyanarvijikh Bayanmunkh",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-047_buyanarvijikh-bayanmunkh.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 5,
+                        "tennis": 5,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 1,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-054",
+                    "name": "Belegdemberel Enkhbat",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-054_belegdemberel-enkhbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 7,
+                        "volleyball": 7,
+                        "tennis": 0,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-059",
+                    "name": "Tuvshinbileg Munkhjargal",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-059_tuvshinbileg-munkhjargal.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 6,
+                        "tennis": 2,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 0,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-087",
+                    "name": "Mongoljin Zolbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-087_mongoljin-zolbayar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 5,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 0,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-138",
+                    "name": "Khishigtuya Ganbold",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-138_khishigtuya-ganbold.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 2,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 5,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-050",
+                    "name": "Munkhsaruul Batbileg",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-050_munkhsaruul-batbileg.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-036",
+                    "name": "Gantumur Otgonbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-036_gantumur-otgonbayar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 3,
+                        "tennis": 10,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 7,
+                        "darts": 5,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-103",
+                    "name": "Tsatsral Tserendagva",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-103_tsatsral-tserendagva.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 7,
+                        "darts": 7,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-132",
+                    "name": "Dulguun Otgonbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-132_dulguun-otgonbayar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 1,
+                        "tennis": 3,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 3,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-013",
+                    "name": "Baasandorj Tserensambuu",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-013_baasandorj-tserensambuu.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 1,
+                        "tennis": 0,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 4,
+                        "chess": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t2",
+            "name": "Naranbayar",
+            "leaderName": "Naranbayar Batjargal",
+            "leaderImageUrl": "/member-images/ddam-041_naranbayar-batjargal.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 7,
+                "volleyball": 7,
+                "tennis": 9,
+                "foosball": 5,
+                "jumpingRope": 0,
+                "cornhole": 6,
+                "darts": 5,
+                "chess": 4
+            },
+            "color": "from-blue-500 to-blue-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-100",
+                    "name": "Khangai Purevtogtokh",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-100_khangai-purevtogtokh.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 1,
+                        "tennis": 8,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 4,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-112",
+                    "name": "Dulguun Tsendayush",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-112_dulguun-tsendayush.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 7,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 1,
+                        "chess": 8
+                    }
+                },
+                {
+                    "id": "ddam-057",
+                    "name": "Anar Ganbaatar",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-057_anar-ganbaatar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 10,
+                        "volleyball": 10,
+                        "tennis": 10,
+                        "foosball": 10,
+                        "jumpingRope": 0,
+                        "cornhole": 10,
+                        "darts": 9,
+                        "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-045",
+                    "name": "Khaliunaa Ganbaatar",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-045_khaliunaa-ganbaatar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-038",
+                    "name": "Nyamosor Enkhjargal",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-038_nyamosor-enkhjargal.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-014",
+                    "name": "Byambajav Tserennadmid",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-014_byambajav-tserennadmid.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 6,
+                        "tennis": 4,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 3,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-067",
+                    "name": "Egshiglen Altanod",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-067_egshiglen-altanod.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 3,
+                        "tennis": 2,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 4,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-031",
+                    "name": "Anudari Zorig",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-031_anudari-zorig.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-025",
+                    "name": "Purevbaatar Tuvshinjargal",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-025_purevbaatar-tuvshinjargal.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 4,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 4,
+                        "darts": 5,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-082",
+                    "name": "Tserenbal Ganbat",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-082_tserenbal-ganbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 1,
+                        "tennis": 1,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-083",
+                    "name": "Nyamdensmaa Dashkhuu",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-083_nyamdensmaa-dashkhuu.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-136",
+                    "name": "Tsengeg Enkhbold",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-136_tsengeg-enkhbold.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 4,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-039",
+                    "name": "Davkharbayar Sutai",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-039_davkharbayar-sutai.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t3",
+            "name": "Erkhembileg",
+            "leaderName": "Erkhembileg Munkhbat",
+            "leaderImageUrl": "/member-images/ddam-012_erkhembileg-munkhbat.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 3,
+                "volleyball": 4,
+                "tennis": 8,
+                "foosball": 5,
+                "jumpingRope": 0,
+                "cornhole": 2,
+                "darts": 6,
+                "chess": 6
+            },
+            "color": "from-emerald-500 to-emerald-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-128",
+                    "name": "Asralkhuyag Ganzorig",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-128_asralkhuyag-ganzorig.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 4,
+                        "tennis": 4,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 4,
+                        "darts": 4,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-102",
+                    "name": "Enkhkhuslen Ankhbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-102_enkhkhuslen-ankhbayar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 6,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 4,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-101",
+                    "name": "Munkhjin Bayasgalan",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-101_munkhjin-bayasgalan.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 7,
+                        "tennis": 6,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 5,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-116",
+                    "name": "Michidmaa Jargalsaikhan",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-116_michidmaa-jargalsaikhan.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 7,
+                        "volleyball": 1,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-088",
+                    "name": "Temuulen Battsengel",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-088_temuulen-battsengel.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 6,
+                        "tennis": 6,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 7,
+                        "chess": 8
+                    }
+                },
+                {
+                    "id": "ddam-123",
+                    "name": "Javkhlantugs Tuvshinjargal",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-123_javkhlantugs-tuvshinjargal.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 2,
+                        "tennis": 4,
+                        "foosball": 4,
+                        "jumpingRope": 0,
+                        "cornhole": 8,
+                        "darts": 8,
+                        "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-071",
+                    "name": "Naranchimeg Munkhzul",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-071_naranchimeg-munkhzul.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 5,
+                        "tennis": 2,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 7,
+                        "darts": 2,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-133",
+                    "name": "Munkhzaya Regzen",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-133_munkhzaya-regzen.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-043",
+                    "name": "Battulga Munkhbat",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-043_battulga-munkhbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 2,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 5,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-058",
+                    "name": "Sergelen Sukhochir",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-058_sergelen-sukhochir.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 1,
+                        "tennis": 0,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 3,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-131",
+                    "name": "Delgerzaya Achtai",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-131_delgerzaya-achtai.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-130",
+                    "name": "Gombosuren Batmunkh",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-130_gombosuren-batmunkh.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 4,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 3,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-108",
+                    "name": "Aztulakh Lkhagvadorj",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-108_aztulakh-lkhagvadorj.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 4,
+                        "tennis": 2,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 1,
+                        "chess": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t4",
+            "name": "Bagabandi",
+            "leaderName": "Bagabandi Erdenebat",
+            "leaderImageUrl": "/member-images/ddam-052_bagabandi-erdenebat.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 3,
+                "volleyball": 3,
+                "tennis": 0,
+                "foosball": 0,
+                "jumpingRope": 0,
+                "cornhole": 1,
+                "darts": 1,
+                "chess": 0
+            },
+            "color": "from-violet-500 to-violet-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-063",
+                    "name": "Jigmed Khuukhnee",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-063_jigmed-khuukhnee.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 7,
+                        "volleyball": 4,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 7,
+                        "darts": 5,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-096",
+                    "name": "Baterdene Davaadorj",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-096_baterdene-davaadorj.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 8,
+                        "volleyball": 2,
+                        "tennis": 3,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 6,
+                        "chess": 7
+                    }
+                },
+                {
+                    "id": "ddam-049",
+                    "name": "Ariunzaya Myagmarjav",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-049_ariunzaya-myagmarjav.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 8,
+                        "tennis": 7,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 9,
+                        "darts": 6,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-111",
+                    "name": "Yanjinlkham Altangerel",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-111_yanjinlkham-altangerel.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 2,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-042",
+                    "name": "Baterdene Khadbaatar",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-042_baterdene-khadbaatar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 5,
+                        "tennis": 0,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-122",
+                    "name": "Azjargal Batjargal",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-122_azjargal-batjargal.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 6,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 6
+                    }
+                },
+                {
+                    "id": "ddam-117",
+                    "name": "Ganchimeg Tserenpuu",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-117_ganchimeg-tserenpuu.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 2,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-090",
+                    "name": "Nyamjargal Munkhbat",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-090_nyamjargal-munkhbat.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 3,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 1,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-129",
+                    "name": "Enkhamgalan Bayarsaikhan",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-129_enkhamgalan-bayarsaikhan.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 9,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-008",
+                    "name": "Munkhbold Bayasgalan",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-008_munkhbold-bayasgalan.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 5,
+                        "tennis": 5,
+                        "foosball": 5,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 4,
+                        "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-140",
+                    "name": "Lkhagvasuren Dugar",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-140_lkhagvasuren-dugar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 2,
+                        "tennis": 1,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 1,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-089",
+                    "name": "Badral Bat-Ochir",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-089_badral-batochir.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t5",
+            "name": "Temuulen",
+            "leaderName": "Temuulen Bayarsaikhan",
+            "leaderImageUrl": "/member-images/ddam-115_temuulen-bayarsaikhan.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 8,
+                "volleyball": 5,
+                "tennis": 6,
+                "foosball": 5,
+                "jumpingRope": 0,
+                "cornhole": 4,
+                "darts": 2,
+                "chess": 1
+            },
+            "color": "from-amber-500 to-orange-600",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-068",
+                    "name": "Ochirsukh Khatanbaatar",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-068_ochirsukh-khatanbaatar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 10,
+                        "volleyball": 10,
+                        "tennis": 1,
+                        "foosball": 8,
+                        "jumpingRope": 0,
+                        "cornhole": 9,
+                        "darts": 2,
+                        "chess": 10
+                    }
+                },
+                {
+                    "id": "ddam-135",
+                    "name": "Boldbaatar Ulziibayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-135_boldbaatar-ulziibayar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 6,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-007",
+                    "name": "Ariunsanaa Baterdene",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-007_ariunsanaa-baterdene.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 7,
+                        "tennis": 5,
+                        "foosball": 7,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 0,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-037",
+                    "name": "Oyuerdem Delgerduuren",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-037_oyuerdem-delgerduuren.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 4,
+                        "tennis": 5,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 4,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-017",
+                    "name": "Temuujin Bayaraa",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-017_temuujin-bayaraa.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 4,
+                        "tennis": 1,
+                        "foosball": 4,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-061",
+                    "name": "Buyankhishig Mendbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-061_buyankhishig-mendbayar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 3,
+                        "tennis": 3,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 4,
+                        "darts": 2,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-029",
+                    "name": "Munkhtuul Ganbat",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-029_munkhtuul-ganbat.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 2,
+                        "tennis": 5,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 4,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-027",
+                    "name": "Munkhgegeen Tumurbaatar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-027_munkhgegeen-tumurbaatar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 3,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 0,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-091",
+                    "name": "Khangarid Enkhbat",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-091_khangarid-enkhbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 1,
+                        "tennis": 1,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 5,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-124",
+                    "name": "Nyambayar Turbat",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-124_nyambayar-turbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-005",
+                    "name": "Ariunaa Nyamjav",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-005_ariunaa-nyamjav.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 1,
+                        "tennis": 3,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-053",
+                    "name": "Mungunkhishig Tumenbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-053_mungunkhishig-tumenbayar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 3,
+                        "tennis": 0,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 0,
+                        "chess": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t6",
+            "name": "Itgel",
+            "leaderName": "Itgel Buyantogtokh",
+            "leaderImageUrl": "/member-images/ddam-020_itgel-buyantogtokh.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 6,
+                "volleyball": 10,
+                "tennis": 4,
+                "foosball": 6,
+                "jumpingRope": 0,
+                "cornhole": 4,
+                "darts": 2,
+                "chess": 5
+            },
+            "color": "from-indigo-500 to-indigo-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-114",
+                    "name": "Enkhgolomt Khuvisgalt",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-114_enkhgolomt-khuvisgalt.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 4,
+                        "tennis": 4,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 3,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-034",
+                    "name": "Amarbold Erdenebat",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-034_amarbold-erdenebat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 5,
+                        "tennis": 5,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 1,
+                        "chess": 8
+                    }
+                },
+                {
+                    "id": "ddam-097",
+                    "name": "Urin Gankhuyag",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-097_urin-gankhuyag.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 3,
+                        "tennis": 2,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-028",
+                    "name": "Narmandakh Lkhagvaa",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-028_narmandakh-lkhagvaa.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 6,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 3,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-093",
+                    "name": "Sarangerel Khurlee",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-093_sarangerel-khurlee.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 8,
+                        "tennis": 0,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 7,
+                        "darts": 2,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-121",
+                    "name": "Ganzorig Samdanpurev",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-121_ganzorig-samdanpurev.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 6,
+                        "tennis": 10,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 1,
+                        "darts": 1,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-110",
+                    "name": "Tserenyanjin Budeekhuu",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-110_tserenyanjin-budeekhuu.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 3,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 3,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-044",
+                    "name": "Sunderiya Amgalandorj",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-044_sunderiya-amgalandorj.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 3,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-030",
+                    "name": "Javkhlantuguldur Buyannemekh",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-030_javkhlantuguldur-buyannemekh.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 1,
+                        "tennis": 1,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-134",
+                    "name": "Batlkhagva Battumur",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-134_batlkhagva-battumur.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 4,
+                        "tennis": 5,
+                        "foosball": 6,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-107",
+                    "name": "Bayarjargal Dagvasumberel",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-107_bayarjargal-dagvasumberel.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-062",
+                    "name": "Uuganbayar Bold",
+                    "division": "Operation Division",
+                    "imageUrl": "/member-images/ddam-062_uuganbayar-bold.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t7",
+            "name": "Khosbayar",
+            "leaderName": "Khosbayar Ariunbat",
+            "leaderImageUrl": "/member-images/ddam-024_khosbayar-ariunbat.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 4,
+                "volleyball": 4,
+                "tennis": 4,
+                "foosball": 4,
+                "jumpingRope": 0,
+                "cornhole": 4,
+                "darts": 4,
+                "chess": 4
+            },
+            "color": "from-rose-500 to-rose-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-009",
+                    "name": "Tuguldur Dandar",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-009_tuguldur-dandar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 7,
+                        "volleyball": 8,
+                        "tennis": 0,
+                        "foosball": 5,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 3,
+                        "chess": 8
+                    }
+                },
+                {
+                    "id": "ddam-006",
+                    "name": "Nyamgerel Turmunkh",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-006_nyamgerel-turmunkh.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 7,
+                        "volleyball": 6,
+                        "tennis": 1,
+                        "foosball": 7,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 7,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-046",
+                    "name": "Khulan Uuganbayar",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-046_khulan-uuganbayar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 6,
+                        "tennis": 5,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-033",
+                    "name": "Densmaa Zorig",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-033_densmaa-zorig.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 5,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-003",
+                    "name": "Byambasaikhan Amarsaikhan",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-003_byambasaikhan-amarsaikhan.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 8,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 4,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-085",
+                    "name": "Batkhuyag Nergui",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-085_batkhuyag-nergui.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 7,
+                        "volleyball": 8,
+                        "tennis": 5,
+                        "foosball": 5,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 8,
+                        "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-104",
+                    "name": "Bilguun Dorjdagva",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-104_bilguun-dorjdagva.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 1,
+                        "tennis": 4,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 1
+                    }
+                },
+                {
+                    "id": "ddam-073",
+                    "name": "Mandukhai Tserensambuu",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-073_mandukhai-tserensambuu.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-023",
+                    "name": "Azbileg Ganbaatar",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-023_azbileg-ganbaatar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-018",
+                    "name": "Danzan Battumur",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-018_danzan-battumur.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 3,
+                        "tennis": 1,
+                        "foosball": 5,
+                        "jumpingRope": 0,
+                        "cornhole": 3,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-070",
+                    "name": "Hatsumi Suzuki",
+                    "division": "Headquarters",
+                    "imageUrl": "/member-images/ddam-070_hatsumi-suzuki.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 2,
+                        "tennis": 0,
+                        "foosball": 1,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-092",
+                    "name": "Gerel Tselmeg",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-092_gerel-tselmeg.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 1,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "t8",
+            "name": "Bilegt",
+            "leaderName": "Bilegt Buyanbat",
+            "leaderImageUrl": "/member-images/ddam-010_bilegt-buyanbat.jpg",
+            "leaderGender": "male",
+            "leaderSportScores": {
+                "basketball": 6,
+                "volleyball": 6,
+                "tennis": 6,
+                "foosball": 6,
+                "jumpingRope": 0,
+                "cornhole": 6,
+                "darts": 6,
+                "chess": 1
+            },
+            "color": "from-cyan-500 to-teal-700",
+            "draftedPlayers": [
+                {
+                    "id": "ddam-084",
+                    "name": "Bilguun Atarsaikhan",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-084_bilguun-atarsaikhan.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 9,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 3
+                    }
+                },
+                {
+                    "id": "ddam-127",
+                    "name": "Turmunkh Ganbat",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-127_turmunkh-ganbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 7,
+                        "tennis": 1,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 2,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-055",
+                    "name": "Ariunzaya Batbayar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-055_ariunzaya-batbayar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 8,
+                        "tennis": 4,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 4,
+                        "chess": 4
+                    }
+                },
+                {
+                    "id": "ddam-021",
+                    "name": "Nomintsend Tserenkhand",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-021_nomintsend-tserenkhand.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 4,
+                        "volleyball": 4,
+                        "tennis": 5,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 1,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-086",
+                    "name": "Gankhurel Jamsran",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-086_gankhurel-jamsran.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 3,
+                        "tennis": 7,
+                        "foosball": 6,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 4,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-016",
+                    "name": "Purevbat Nyamdorj",
+                    "division": "Platform Division",
+                    "imageUrl": "/member-images/ddam-016_purevbat-nyamdorj.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 0,
+                        "tennis": 3,
+                        "foosball": 8,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 8,
+                        "chess": 8
+                    }
+                },
+                {
+                    "id": "ddam-069",
+                    "name": "Anudari Otgondavaa",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-069_anudari-otgondavaa.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 5,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 0,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-035",
+                    "name": "Anujin Ariunbaatar",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-035_anujin-ariunbaatar.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 0,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 5,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-022",
+                    "name": "Tengis Boldbaatar",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-022_tengis-boldbaatar.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-078",
+                    "name": "Tuguldur Amarbat",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-078_tuguldur-amarbat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 4,
+                        "tennis": 3,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 0,
+                        "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-075",
+                    "name": "Nominerdene Yadamjav",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-075_nominerdene-yadamjav.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 1,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 4,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-095",
+                    "name": "Odgerel Bayarsaikhan",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-095_odgerel-bayarsaikhan.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 2,
+                        "tennis": 2,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 2,
+                        "darts": 2,
+                        "chess": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "draftOrder": [
+        {
+            "id": "t1",
+            "name": "Myagmardash",
+            "leaderName": "Myagmardash Ulziisaikhan",
+            "leaderImageUrl": "/member-images/ddam-019_myagmardash-ulziisaikhan.jpg",
+            "color": "from-red-500 to-red-700"
+        },
+        {
+            "id": "t2",
+            "name": "Naranbayar",
+            "leaderName": "Naranbayar Batjargal",
+            "leaderImageUrl": "/member-images/ddam-041_naranbayar-batjargal.jpg",
+            "color": "from-blue-500 to-blue-700"
+        },
+        {
+            "id": "t3",
+            "name": "Erkhembileg",
+            "leaderName": "Erkhembileg Munkhbat",
+            "leaderImageUrl": "/member-images/ddam-012_erkhembileg-munkhbat.jpg",
+            "color": "from-emerald-500 to-emerald-700"
+        },
+        {
+            "id": "t4",
+            "name": "Bagabandi",
+            "leaderName": "Bagabandi Erdenebat",
+            "leaderImageUrl": "/member-images/ddam-052_bagabandi-erdenebat.jpg",
+            "color": "from-violet-500 to-violet-700"
+        },
+        {
+            "id": "t5",
+            "name": "Temuulen",
+            "leaderName": "Temuulen Bayarsaikhan",
+            "leaderImageUrl": "/member-images/ddam-115_temuulen-bayarsaikhan.jpg",
+            "color": "from-amber-500 to-orange-600"
+        },
+        {
+            "id": "t6",
+            "name": "Itgel",
+            "leaderName": "Itgel Buyantogtokh",
+            "leaderImageUrl": "/member-images/ddam-020_itgel-buyantogtokh.jpg",
+            "color": "from-indigo-500 to-indigo-700"
+        },
+        {
+            "id": "t7",
+            "name": "Khosbayar",
+            "leaderName": "Khosbayar Ariunbat",
+            "leaderImageUrl": "/member-images/ddam-024_khosbayar-ariunbat.jpg",
+            "color": "from-rose-500 to-rose-700"
+        },
+        {
+            "id": "t8",
+            "name": "Bilegt",
+            "leaderName": "Bilegt Buyanbat",
+            "leaderImageUrl": "/member-images/ddam-010_bilegt-buyanbat.jpg",
+            "color": "from-cyan-500 to-teal-700"
+        }
+    ],
+    "candidates": [],
+    "currentPickIndex": 99,
+    "totalPicks": 99,
+    "totalRounds": 13,
+    "isDraftComplete": true,
+    "isDraftOrderLocked": true,
+    "currentTeamId": null,
+    "currentTeamName": null,
+    "nextTeamName": null,
+    "currentRequiredGender": null,
+    "nextRequiredGender": null,
+    "remainingGenderCounts": {
+        "male": 0,
+        "female": 0,
+        "unspecified": 0
+    },
+    "lastPick": null,
+    "announcements": [],
+    "activity": [],
+    "revision": 2026050802
+}
