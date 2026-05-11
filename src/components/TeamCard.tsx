@@ -14,7 +14,7 @@ export function TeamCard({ team, teamIdx, isVisible, onPlayerSelect }: TeamCardP
 
   return (
     <div
-      className="relative flex-shrink-0 w-full sm:w-96 md:w-full lg:w-96 rounded-lg border border-slate-800 bg-slate-950/40 backdrop-blur-xl overflow-hidden snap-center group h-full max-h-[calc(100vh-200px)] flex flex-col"
+      className="relative flex-shrink-0 w-[calc(100vw-120px)] sm:w-96 md:w-full lg:w-96 rounded-lg border border-slate-800 bg-slate-950/40 backdrop-blur-xl overflow-hidden snap-center group h-full max-h-[calc(100vh-200px)] flex flex-col"
       style={{
         animation: isVisible ? `slideInUp 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) ${teamIdx * 0.12}s both` : 'none',
       }}
@@ -35,7 +35,7 @@ export function TeamCard({ team, teamIdx, isVisible, onPlayerSelect }: TeamCardP
             <img
               src={team.leaderImageUrl}
               alt={team.leaderName}
-              className="w-12 h-12 rounded-lg object-cover border border-slate-700 relative group-hover/captain:border-cyan-400 group-hover/captain:brightness-110 transition-all duration-300"
+              className="w-18 h-18 rounded-lg object-cover border border-slate-700 relative group-hover/captain:border-cyan-400 group-hover/captain:brightness-110 transition-all duration-300"
             />
           </div>
           <div className="flex-1 min-w-0">

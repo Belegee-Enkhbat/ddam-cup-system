@@ -30,7 +30,7 @@ export default function App() {
 
       <Header isVisible={isVisible} selectedSport={selectedSport} onSportChange={setSport} />
 
-      <main className="flex-1 px-8 py-12 overflow-hidden flex flex-col relative" ref={mainRef}>
+      <main className="flex-1 px-8 py-12 overflow-hidden flex flex-col relative z-0" ref={mainRef}>
         <BackgroundIcons />
 
         {selectedSport ? (
