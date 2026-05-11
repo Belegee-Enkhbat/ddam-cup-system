@@ -80,8 +80,6 @@ export function PlayerModal({ player, onClose }: PlayerModalProps) {
                   const score = player.sportScores[sport.key];
                   if (score === undefined) return null;
 
-                  const percentage = (score / 10) * 100;
-
                   return (
                     <div
                       key={sport.key}
@@ -104,16 +102,13 @@ export function PlayerModal({ player, onClose }: PlayerModalProps) {
                               </p>
                             </div>
                           </div>
-                          <span className={`text-xs font-black px-2 py-1 rounded border ${sport.badgeClass} flex-shrink-0`}>
-                            {percentage.toFixed(0)}%
-                          </span>
                         </div>
 
                         <div className="h-2.5 bg-slate-800/50 rounded-full overflow-hidden border border-slate-700/50 group-hover/score:border-slate-600 transition-all duration-300">
                           <div
                             className="h-full transition-all duration-700"
                             style={{
-                              width: `${percentage}%`,
+                              width: `${(score / 10) * 100}%`,
                               background: `linear-gradient(90deg, var(--color-from), var(--color-to))`,
                               '--color-from': sport.accentClass.includes('cyan') ? '#06b6d4' : sport.accentClass.includes('orange') ? '#fb923c' : sport.accentClass.includes('sky') ? '#0ea5e9' : sport.accentClass.includes('lime') ? '#84cc16' : sport.accentClass.includes('teal') ? '#14b8a6' : sport.accentClass.includes('emerald') ? '#10b981' : sport.accentClass.includes('amber') ? '#f59e0b' : sport.accentClass.includes('rose') ? '#f43f5e' : '#8b5cf6',
                               '--color-to': 'rgba(255,255,255,0.1)',
@@ -128,12 +123,6 @@ export function PlayerModal({ player, onClose }: PlayerModalProps) {
             </div>
           </div>
 
-          {/* Footer */}
-          <div className="p-4 rounded-lg border border-slate-800 bg-slate-900/40 text-center hover:border-slate-700 hover:bg-slate-900/60 transition-all duration-500">
-            <p className="text-xs font-light text-slate-500 tracking-widest uppercase">
-              Collective Strength Through Diversity
-            </p>
-          </div>
         </div>
       </div>
     </div>
