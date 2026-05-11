@@ -54,7 +54,6 @@ export function TeamCard({ team, teamIdx, isVisible, onPlayerSelect }: TeamCardP
       {/* Team Players */}
       <div className="flex-1 px-6 py-6 space-y-3 overflow-y-auto">
         {players.map((player, playerIdx) => {
-          const quality = getPlayerQuality(player);
           return (
             <button
               key={player.id}
@@ -80,8 +79,8 @@ export function TeamCard({ team, teamIdx, isVisible, onPlayerSelect }: TeamCardP
                   {player.division}
                 </p>
 
-                <div className={`mt-1 px-1.5 py-0.5 rounded border ${quality.color} text-center group-hover/player:scale-105 transition-transform duration-300 w-fit`}>
-                  <p className={`text-xs font-black ${quality.textColor}`}>
+                <div className="mt-1 px-1.5 py-0.5 rounded border border-slate-500 text-center group-hover/player:scale-105 transition-transform duration-300 w-fit">
+                  <p className="text-xs font-black text-slate-300">
                     {(Object.values(player.sportScores).reduce((a, b) => a + b, 0) / Object.values(player.sportScores).length).toFixed(1)}
                   </p>
                 </div>
