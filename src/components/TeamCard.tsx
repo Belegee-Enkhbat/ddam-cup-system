@@ -47,7 +47,6 @@ export function TeamCard({ team, teamIdx, isVisible, onPlayerSelect }: TeamCardP
               {players.length} {players.length === 1 ? 'member' : 'members'}
             </p>
           </div>
-          <ChevronRight className="w-4 h-4 text-slate-600 group-hover/captain:text-cyan-400 transition-colors duration-300 flex-shrink-0" />
         </div>
       </div>
 
