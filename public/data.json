@@ -952,6 +952,23 @@
                         "darts": 2,
                         "chess": 2
                     }
+                },
+                {
+                    "id": "ddam-143",
+                    "name": "Munkhtulga Elbegsaikhan",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-143_munkhtulga-elbegsaikhan.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 0,
+                        "volleyball": 1,
+                        "tennis": 1,
+                        "foosball": 2,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 1,
+                        "chess": 0
+                    }
                 }
             ]
         },
@@ -1175,6 +1192,23 @@
                         "cornhole": 1,
                         "darts": 0,
                         "chess": 5
+                    }
+                },
+                {
+                    "id": "ddam-145",
+                    "name": "Lkhamnorjin Mijiddorj",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-145_lkhamnorjin-mijiddorj.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 1,
+                        "volleyball": 1,
+                        "tennis": 1,
+                        "foosball": 4,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 1,
+                        "chess": 1
                     }
                 }
             ]
@@ -1400,6 +1434,40 @@
                         "darts": 2,
                         "chess": 2
                     }
+                },
+                {
+                    "id": "ddam-142",
+                    "name": "Renchin Munkhchuluun",
+                    "division": "Solution Division",
+                    "imageUrl": "/member-images/ddam-142_renchin-munkhchuluun.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 6,
+                        "volleyball": 2,
+                        "tennis": 0,
+                        "foosball": 0,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 6,
+                        "chess": 0
+                    }
+                },
+                {
+                    "id": "ddam-141",
+                    "name": "Turbat Bayarjawkhlan",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-141_turbat-bayarjargal.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 3,
+                        "volleyball": 3,
+                        "tennis": 3,
+                        "foosball": 6,
+                        "jumpingRope": 0,
+                        "cornhole": 6,
+                        "darts": 5,
+                        "chess": 6
+                    }
                 }
             ]
         },
@@ -1624,6 +1692,23 @@
                         "darts": 0,
                         "chess": 0
                     }
+                },
+                {
+                    "id": "ddam-142b",
+                    "name": "Galbaatar Erdenebat",
+                    "division": "Global Division",
+                    "imageUrl": "/member-images/ddam-142_galbaatar-erdenebat.jpg",
+                    "gender": "male",
+                    "sportScores": {
+                        "basketball": 5,
+                        "volleyball": 5,
+                        "tennis": 5,
+                        "foosball": 5,
+                        "jumpingRope": 0,
+                        "cornhole": 5,
+                        "darts": 5,
+                        "chess": 5
+                    }
                 }
             ]
         },
@@ -1847,6 +1932,23 @@
                         "cornhole": 2,
                         "darts": 2,
                         "chess": 2
+                    }
+                },
+                {
+                    "id": "ddam-144",
+                    "name": "Bayartsetseg Tsend",
+                    "division": "Digital Marketing Division",
+                    "imageUrl": "/member-images/ddam-144_bayartsetseg-tsend.jpg",
+                    "gender": "female",
+                    "sportScores": {
+                        "basketball": 2,
+                        "volleyball": 3,
+                        "tennis": 3,
+                        "foosball": 3,
+                        "jumpingRope": 0,
+                        "cornhole": 0,
+                        "darts": 3,
+                        "chess": 0
                     }
                 }
             ]
