@@ -40,19 +40,19 @@ export function TeamsList({ teams, isVisible, onPlayerSelect }: TeamsListProps) 
   };
 
   return (
-    <div className="flex-1 flex items-center relative z-10 gap-4">
+    <div className="flex-1 relative flex items-center px-2 py-6">
       <button
         onClick={goToPreviousTeam}
         disabled={currentTeamIdx === 0}
-        className="md:hidden flex-shrink-0 p-1 rounded bg-slate-900/60 hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed border border-slate-800 hover:border-slate-700 transition-all duration-300"
+        className="absolute left-2 z-50 p-2 rounded bg-slate-900/90 hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed border border-slate-700 hover:border-slate-600 transition-all duration-300"
         aria-label="Previous team"
       >
-        <ChevronLeft className="w-4 h-4 text-white" strokeWidth={2} />
+        <ChevronLeft className="w-5 h-5 text-white" strokeWidth={2} />
       </button>
 
       <div
         ref={scrollContainerRef}
-        className="flex-1 flex items-center gap-6 overflow-x-auto pb-4 snap-x snap-mandatory"
+        className="flex-1 flex items-center gap-6 overflow-x-auto snap-x snap-mandatory"
         style={{ scrollBehavior: 'smooth' }}
       >
         {teams.map((team, teamIdx) => (
@@ -70,10 +70,10 @@ export function TeamsList({ teams, isVisible, onPlayerSelect }: TeamsListProps) 
       <button
         onClick={goToNextTeam}
         disabled={currentTeamIdx === teams.length - 1}
-        className="md:hidden flex-shrink-0 p-1 rounded bg-slate-900/60 hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed border border-slate-800 hover:border-slate-700 transition-all duration-300"
+        className="absolute right-2 z-50 p-2 rounded bg-slate-900/90 hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed border border-slate-700 hover:border-slate-600 transition-all duration-300"
         aria-label="Next team"
       >
-        <ChevronRight className="w-4 h-4 text-white" strokeWidth={2} />
+        <ChevronRight className="w-5 h-5 text-white" strokeWidth={2} />
       </button>
     </div>
   );
